@@ -1,0 +1,3 @@
+npm i @stomp/stompjs  // esta libreria es la que se encarga de la conexion con el servidor
+npm i sockjs-client // esta libreria es necesaria para stompjs y es la que se encarga de la conexion con el servidor
+npm install --save @types/sockjs-client 

@@ -1,0 +1,18 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+/chat-front/ng-chat-client/dist
+/chat-front/ng-chat-client/tmp
+/chat-front/ng-chat-client/out-tsc
+/chat-front/ng-chat-client/bazel-out
+
+# Node
+/chat-front/ng-chat-client/node_modules
+/chat-front/ng-chat-client/npm-debug.log
+/chat-front/ng-chat-client/yarn-error.log
+
+# IDEs and editors
+/chat-back/target/
+/chat-back/.idea
+
+
